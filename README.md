@@ -67,7 +67,8 @@ High-level KPIs and trends providing a consolidated view of business performance
 
 📸 Dashboard Preview:
 
-![Bike Shop Dashboard](image1.png)
+![Bike Shop Dashboard](image%201.png)
+
 
 ---
 
